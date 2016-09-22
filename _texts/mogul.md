@@ -7,7 +7,6 @@ source: Literature Online
 ---
 
 
-
 # Elizabeth Inchbald
 ## The Mogul Tale: A Farce acted at the Theatre-Royal, Smoke Alley, Dublin  
 
