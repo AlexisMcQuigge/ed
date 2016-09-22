@@ -1,8 +1,11 @@
-# Elizabeth Inchbald: THE MOGUL TALE or, The Descent of the Balloon.
-## A FARCE
+---
+layout: drama
+title: The Mogul Tale
+author: Elizabeth Inchbald
+publication-date: 1788
+source: Literature Online
+---
 
-AS IT IS ACTED AT THE THEATRE-ROYAL SMOKE-ALLEY. [Dublin]
-1788
 
 ### DRAMATIS PERSONAE:
 
