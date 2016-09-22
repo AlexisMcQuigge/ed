@@ -9,10 +9,11 @@ source: Literature Online
 
   
 
-### DRAMATIS PERSONAE:
+
 # The Mogul Tale
 ## Elizabeth Inchbald
 
+### DRAMATIS PERSONAE:
 ##### MEN
 
 * The Mogul.
