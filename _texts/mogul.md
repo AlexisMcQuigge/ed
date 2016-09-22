@@ -6,13 +6,6 @@ publication-date: 1788
 source: Literature Online
 ---
 
-
-  
-
-
-# The Mogul Tale
-## Elizabeth Inchbald
-
 ### DRAMATIS PERSONAE:
 ##### MEN
 
