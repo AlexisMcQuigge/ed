@@ -6,8 +6,8 @@ publication-date: 1788
 source: Literature Online
 ---
 
-### DRAMATIS PERSONAE:
-##### MEN
+DRAMATIS PERSONAE:
+ MEN
 
 * The Mogul.
 
@@ -21,7 +21,7 @@ source: Literature Online
 
 
 
-##### WOMEN.
+WOMEN.
 
 * First Lady.
 
