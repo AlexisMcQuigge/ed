@@ -6,7 +6,9 @@ publication-date: 1788
 source: Literature Online
 ---
 
-DRAMATIS PERSONAE:
+Elizabeth Inchbald  
+
+DRAMATIS PERSONAE:  
 
 MEN
 
