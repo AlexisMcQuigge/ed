@@ -11,8 +11,12 @@ source: Literature Online
 
 ### Elizabeth Inchbald 
 #### A Farce (1788)
+
 ---
+
 DRAMATIS PERSONAE
+
+
 MEN
 
 * The Mogul.
