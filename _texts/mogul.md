@@ -5,14 +5,9 @@ author: Elizabeth Inchbald
 publication-date: 1788
 source: Literature Online
 ---
-
-
-  
-
 Elizabeth Inchbald
 
 ---
-
 DRAMATIS PERSONAE
 ---
 
