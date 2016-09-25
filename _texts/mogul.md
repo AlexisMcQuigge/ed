@@ -30,7 +30,7 @@ MEN
 
 WOMEN.
 
-* First Lady. [fn^1] 
+* First Lady.  
 
 * Second Lady.
 
@@ -1239,6 +1239,3 @@ The lord bless you sir: thank you.
 
 *FINIS*
 
-
-
-[fn^1]: Test
