@@ -9,13 +9,12 @@ source: Literature Online
 
   
 
-### Elizabeth Inchbald 
-#### A Farce (1788)
+Elizabeth Inchbald
 
 ---
 
 DRAMATIS PERSONAE
-
+---
 
 MEN
 
