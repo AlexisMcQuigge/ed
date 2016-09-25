@@ -5,6 +5,9 @@ author: Elizabeth Inchbald
 publication-date: 1788
 source: Literature Online
 ---
+
+[!]http://platformlondon.org/wp-content/uploads/2012/12/british_east_india_company.jpg,  
+
 Elizabeth Inchbald
 
 ---
