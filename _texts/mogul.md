@@ -9,8 +9,8 @@ source: Literature Online
 
   
 
-Elizabeth Inchbald 
-
+###Elizabeth Inchbald 
+---
 DRAMATIS PERSONAE
 MEN
 
