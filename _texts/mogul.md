@@ -8,7 +8,7 @@ source: Literature Online
 
 ![British India](http://platformlondon.org/wp-content/uploads/2012/12/british_east_india_company.jpg)  
 
-Elizabeth Inchbald
+Elizabeth Inchbald, 1788
 
 ---
 DRAMATIS PERSONAE
@@ -30,11 +30,12 @@ MEN
 
 WOMEN.
 
-* First Lady.
+* First Lady. [fn^1] 
 
 * Second Lady.
 
 * Third Lady.
+
 * Fanny (the Cobbler's Wife)
 
 
@@ -1238,3 +1239,6 @@ The lord bless you sir: thank you.
 
 *FINIS*
 
+
+
+[fn^1]: Test
