@@ -1,9 +1,14 @@
 ---
 layout: drama
+
 title: The Mogul Tale
+
 author: Elizabeth Inchbald
+
 publication-date: 1788
+
 source: Literature Online
+
 ---
 
 ![British India](http://platformlondon.org/wp-content/uploads/2012/12/british_east_india_company.jpg)  
@@ -41,7 +46,7 @@ WOMEN.
 
 ### ACT I.
 
-#### SCENE I: The Gardens of the Mogul adjoining to the Seraglio
+##### SCENE I: The Gardens of the Mogul adjoining to the Seraglio
 
 *Enter First and Second Ladies* 
 
@@ -75,7 +80,7 @@ I tremble all over.
 
 
 **2d La.**
-	I am afraid it is a great ravenous bird, coming to devour us, is it a fowl? Perhaps it is the chariot of some of the gods of the Gentoos.
+	I am afraid it is a great ravenous bird, coming to devour us, is it a fowl? Perhaps it is the chariot of some of the gods of the Gentoos. [^1]
 
 
 **1st La.**
@@ -1239,4 +1244,4 @@ The lord bless you sir: thank you.
 	
 
 *FINIS*
-
+[^1]: text
